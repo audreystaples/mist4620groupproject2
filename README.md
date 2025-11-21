@@ -24,9 +24,9 @@ We wanted to examine the periods leading up to and after the COVID-19 pandemic t
 - Visualizes the full spread of price growth across all 169 Connecticut towns, providing statewide context for our analysis.
 - The median CT town grew ~45%, indicating broad but moderate appreciation between 2018–2023.
 - The interquartile range (IQR) shows most towns clustered between ~20% and ~70% growth, reflecting common market conditions.
-- We chose the top 10 because they’re the towns with the strongest growth trends — and the statewide distribution validates that these towns truly behaved differently.”
+- We chose the top 10 because they’re the towns with the strongest growth trends — and the statewide distribution validates that these towns truly behaved differently.
 - Several top-performing towns (highlighted in blue) stand far above the statewide distribution, with growth between 150%–325%, confirming how uneven the COVID-era surge was.
-- Highlights that the top 10 fastest-growing towns experienced 3–6× the typical growth, driving much of the statewide housing boom.
+- Highlights that the top 10 fastest-growing towns experienced 3–6x the typical growth, driving much of the statewide housing boom.
 
 <img width="307" height="280" alt="Screenshot 2025-11-20 at 6 16 03 PM" src="https://github.com/user-attachments/assets/2a3876f0-c3f4-44d3-a156-ea3959ffdd50" />
 
@@ -122,6 +122,7 @@ This question narrowed in on the discrepancies between sale prices and assessed 
  
 **Tableau Packaged Workbook:**
 
+https://drive.google.com/drive/folders/15dGMt9O2iviugWpYR9pS6_wULTqpsHxl?usp=sharing 
 
 
 
