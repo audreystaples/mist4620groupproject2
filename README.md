@@ -2,10 +2,10 @@
 
 ***Team Name and Members:***
 1. Audrey Staples
-2. Angela Ren
-3. Tanner Sutherland
-4. Sam Effron
-5. Tyler Schildkraut
+2. Angela Ren: https://github.com/angelaaa456/mist4610groupproject2 
+3. Tanner Sutherland: https://github.com/tannersutherland/mist4610groupproject2/blob/main/README.md 
+4. Sammy Effron: https://github.com/Seffron/mist4610groupproject2/blob/main/README.md
+5. Tyler Schildkraut: https://github.com/tylerschildkraut/mist4610-project2-group-7/blob/acc29045db06734eb6b9771adb96c690a8286c20/README.md 
 
 ***Database Description:***
 
